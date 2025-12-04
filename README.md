@@ -52,6 +52,11 @@ Write the detailed procedure here
 **Output Timing Waveform**
 
 **Result:**
+![RTL EX 4 I](https://github.com/user-attachments/assets/e67e6105-b2c4-425d-b404-95755c248686)
+![WF EX 4 I ](https://github.com/user-attachments/assets/c74a0993-286e-4ce4-a3ee-d3e150cbae16)
+![RTL EX 4 II](https://github.com/user-attachments/assets/35c639de-90fe-4b21-938f-6d01cd405c2b)
+![WF EX 4 II](https://github.com/user-attachments/assets/43bf4079-cd17-49a9-8f7f-162f25e341ae)
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
